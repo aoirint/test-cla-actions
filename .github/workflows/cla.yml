@@ -42,4 +42,4 @@ jobs:
           title: 'Update CLA signatures'
           base: 'main'
           branch: 'cla-assistant/update-signatures'
-          delete-branch: true
+          delete-branch: false
